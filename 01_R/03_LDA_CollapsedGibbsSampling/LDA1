@@ -1,0 +1,3 @@
+LDA1 = function(docs, vocab, K, alpha, beta, iterations){
+	
+}
